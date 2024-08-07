@@ -11,3 +11,6 @@ Este projeto é um aplicativo web interativo desenvolvido com Streamlit, que per
 - Interface Intuitiva: Navegue e interaja com os gráficos através de uma interface web simples e direta.
 
 O aplicativo usa Plotly Express para criar gráficos interativos e Pandas para manipulação de dados.
+
+# Link do app do render:
+
