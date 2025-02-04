@@ -1,4 +1,4 @@
-# Projeto Sprint 5 - Triple Ten - Criar e implementar um dashboard de aplicativo web em um serviço de nuvem.
+# Projeto - Criar e implementar um dashboard de aplicativo web em um serviço de nuvem.
 
 ## Descrição
 
